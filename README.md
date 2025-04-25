@@ -2,7 +2,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.10.1-red)](https://pytorch.org/) 
 [![License](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
 
-![Framework](https://raw.githubusercontent.com/lihan689/FDM/main/figure2.png)
+![Framework](https://raw.githubusercontent.com/lihan689/FDM/main/Fig2.png)
 
 🔥 Official PyTorch implementation of our feature decoupling method for VI-ReID
 
