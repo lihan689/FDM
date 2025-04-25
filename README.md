@@ -116,5 +116,5 @@ class FDModule(nn.Module):
 - Evaluation protocol follows [SYSU-MM01](https://github.com/wuancong/SYSU-MM01) official benchmark
 - Baseline ResNet implementation from [torchvision](https://pytorch.org/vision/stable/models.html)
 
-**Code Repository**: [lihan689/FDM](https://github.com/lihan689/FDM)  
+**Code Repository**: [lihan689/FDM/tree/master](https://github.com/lihan689/FDM)  
 **Technical Support**: 934271466@qq.com
