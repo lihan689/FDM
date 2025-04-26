@@ -76,12 +76,11 @@ class FDModule(nn.Module):
 | RegDB     | V→I          | 89.74% | 83.69% | 
 
 ## References
-```bibtex
 Feng, J., Wu, A., & Zheng, W.-S. (2023). Shape-erased feature learning for visible-infrared person re-identification. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 22752–22761.
 Li, D., Wei, X., Hong, X., & Gong, Y. (2020). Infrared-visible cross-modal person re-identification with an x modality. Proceedings of the AAAI Conference on Artificial Intelligence, 34(4), 4610–4617.
 Wang, G., Zhang, T., Cheng, J., Liu, S., Yang, Y., & Hou, Z. (2019). RGB-infrared cross-modality person re-identification via joint pixel and feature alignment. Proceedings of the IEEE/CVF International Conference on Computer Vision, 3623–3632.
 Ye, M., Shen, J., J. Crandall, D., Shao, L., & Luo, J. (2020). Dynamic dual-attentive aggregation learning for visible-infrared person re-identification. Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part XVII 16, 229–247.
-```
+
 # Acknowledgements
 - Contour generation powered by [CNIF](https://github.com/CNIF-Project/CNIF) (request access via zhangyk@stu.xmu.edu.cn)
 - Evaluation protocol follows [SYSU-MM01](https://github.com/wuancong/SYSU-MM01) official benchmark
