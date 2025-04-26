@@ -77,37 +77,10 @@ class FDModule(nn.Module):
 
 ## References
 ```bibtex
-@inproceedings{58,
-  title={Shape-erased feature learning for visible-infrared person re-identification},
-  author={Feng, Jiawei and Wu, Ancong and Zheng, Wei-Shi},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={22752--22761},
-  year={2023}
-}
-@inproceedings{59,
-  title={RGB-infrared cross-modality person re-identification via joint pixel and feature alignment},
-  author={Wang, Guan'an and Zhang, Tianzhu and Cheng, Jian and Liu, Si and Yang, Yang and Hou, Zengguang},
-  booktitle={Proceedings of the IEEE/CVF international conference on computer vision},
-  pages={3623--3632},
-  year={2019}
-}
-@inproceedings{60,
-  title={Infrared-visible cross-modal person re-identification with an x modality},
-  author={Li, Diangang and Wei, Xing and Hong, Xiaopeng and Gong, Yihong},
-  booktitle={Proceedings of the AAAI conference on artificial intelligence},
-  volume={34},
-  number={04},
-  pages={4610--4617},
-  year={2020}
-}
-@inproceedings{61,
-  title={Dynamic dual-attentive aggregation learning for visible-infrared person re-identification},
-  author={Ye, Mang and Shen, Jianbing and J. Crandall, David and Shao, Ling and Luo, Jiebo},
-  booktitle={Computer Vision--ECCV 2020: 16th European Conference, Glasgow, UK, August 23--28, 2020, Proceedings, Part XVII 16},
-  pages={229--247},
-  year={2020},
-  organization={Springer}
-}
+Feng, J., Wu, A., & Zheng, W.-S. (2023). Shape-erased feature learning for visible-infrared person re-identification. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 22752–22761.
+Li, D., Wei, X., Hong, X., & Gong, Y. (2020). Infrared-visible cross-modal person re-identification with an x modality. Proceedings of the AAAI Conference on Artificial Intelligence, 34(4), 4610–4617.
+Wang, G., Zhang, T., Cheng, J., Liu, S., Yang, Y., & Hou, Z. (2019). RGB-infrared cross-modality person re-identification via joint pixel and feature alignment. Proceedings of the IEEE/CVF International Conference on Computer Vision, 3623–3632.
+Ye, M., Shen, J., J. Crandall, D., Shao, L., & Luo, J. (2020). Dynamic dual-attentive aggregation learning for visible-infrared person re-identification. Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part XVII 16, 229–247.
 ```
 # Acknowledgements
 - Contour generation powered by [CNIF](https://github.com/CNIF-Project/CNIF) (request access via zhangyk@stu.xmu.edu.cn)
