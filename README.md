@@ -18,9 +18,7 @@ wget https://github.com/wuancong/SYSU-MM01/archive/master.zip
 
 unzip master.zip && python tools/preprocess_sysu.py --src SYSU-MM01-master --dst data/sysu
 
-# Generate Body Contours (CNIF required)
-
-git clone https://github.com/CNIF-Project/CNIF.git  # Access permission required
+# Generate Body Contours (CNIF required) 
 
 python tools/generate_contour.py --input data/sysu --output data/contours --model_path CNIF/checkpoints/cnif.pth
 
